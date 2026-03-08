@@ -21,7 +21,7 @@ The objectives of this project are:
 
 ## Dataset
 
-The dataset used in this project is the **Bank Marketing dataset**, which contains demographic and interaction information of bank customers.
+The dataset used in this project is the **Bank Marketing dataset**, which contains demographic and interaction information of bank customers.This project obtained from Kaggle.
 
 Some attributes are categorized as:
 
